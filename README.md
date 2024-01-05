@@ -1,1 +1,1 @@
-#this is fro learning purpose
+#this is for learning purpose
